@@ -4,8 +4,8 @@
 <H3>Aim:</H3>
 <p>To ImplementA * Search algorithm for a Graph using Python 3.</p>
 <H3>Algorithm:</H3>
-    ``````
-// A* Search Algorithm
+   
+ A* Search Algorithm
 1.  Initialize the open list
 2.  Initialize the closed list
     put the starting node on the open 
@@ -47,7 +47,7 @@
     e) push q on the closed list
     end (while loop)
 
-``````
+
 
 
 ## Program:
@@ -161,7 +161,8 @@ aStarAlgo('S', 'G')
 <h2> Graph I</h2>
 <hr>
 
-![image](https://github.com/natsaravanan/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/87870499/b1377c3f-011a-4c0f-a843-516842ae056a)
+![image](https://github.com/Nachiyarr/19AI405ExpNo4/assets/113497340/4ad6a931-ce1f-4b32-94ad-e3fb541a391d)
+
 
 <hr>
 <h2> Input</h2>
@@ -201,7 +202,8 @@ Path found: ['A', 'F', 'G', 'I', 'J']
 <h2> Graph II</h2>
 <hr>
 
-![image](https://github.com/natsaravanan/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/87870499/acbb09cb-ed39-48e5-a59b-2f8d61b978a3)
+![image](https://github.com/Nachiyarr/19AI405ExpNo4/assets/113497340/076abc84-ff9d-40c8-b725-30fd756f5dc3)
+
 
 
 <hr>
